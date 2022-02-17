@@ -1,0 +1,29 @@
+---
+title: "esm_244_lab_7_spatial_data"
+author: "conner jainese"
+date: "2/17/2022"
+output: html_document
+---
+
+```{r setup, include=TRUE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+library(tidyverse)
+library(here)
+library(broom)
+
+library(sf)
+library(tmap)
+```
+
+# Part 1: Spatial data wrangling, visualization
+
+```{r}
+
+```
+
+
+
+
+
+
